@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "t5c",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bonus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bonus-Debug-225e82914623684e278b.json",
+					"name" : "bonus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exo1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exo1-Debug-d07fa314d76b63f8c049.json",
+					"name" : "exo1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exo2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exo2-Debug-75cea2de3e6eb7ca5535.json",
+					"name" : "exo2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nicolas/CLionProjects/t5c/cmake-build-debug",
+		"source" : "/home/nicolas/CLionProjects/t5c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
